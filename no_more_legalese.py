@@ -1,3 +1,8 @@
+# ( ) Identificar o tema central do template. Qual é a tese principal?
+# ( ) Identificar encapsulamento ou distanciamento de palavras-chave desta tese principal. Se houver grande desvio padrão, há baixo encapsulamento. Se houver pequeno desvio padrão, há um bom encapsulamento.
+# ( ) Identificar quantidade de adjetivos utilizados vs uso de substativos. Com isso poderá ser verificado se a argumentação é voltada aos fatos ou se não tem esse foco.
+# ( )
+
 import tkinter as tk
 from tkinter import filedialog
 import csv

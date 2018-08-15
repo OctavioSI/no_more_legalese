@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5b753ac6-ba94-44d1-90af-368e8a22e481" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.incorrect_expressions.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/no_more_legalese.py" beforeDir="false" afterPath="$PROJECT_DIR$/no_more_legalese.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing_nltk.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing_nltk.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testing_nltk.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testing_nltk.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testing_nltk.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no_more_legalese.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/no_more_legalese.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -43,8 +53,8 @@
         <option value="$PROJECT_DIR$/research.txt" />
         <option value="$PROJECT_DIR$/expressions_should_be_avoided" />
         <option value="$PROJECT_DIR$/incorrect_expressions" />
-        <option value="$PROJECT_DIR$/no_more_legalese.py" />
         <option value="$PROJECT_DIR$/testing_nltk.py" />
+        <option value="$PROJECT_DIR$/no_more_legalese.py" />
       </list>
     </option>
   </component>
@@ -73,7 +83,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ana_lisa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -153,16 +163,16 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18155198" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19619326" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28052804" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.9339934" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31518152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -176,6 +186,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testing_nltk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no_more_legalese.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing_nltk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testing_nltk.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -234,17 +265,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/incorrect_expressions" />
     <entry file="file://$PROJECT_DIR$/expressions_should_be_avoided" />
-    <entry file="file://$PROJECT_DIR$/no_more_legalese.py">
+    <entry file="file://$PROJECT_DIR$/testing_nltk.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testing_nltk.py">
+    <entry file="file://$PROJECT_DIR$/no_more_legalese.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
